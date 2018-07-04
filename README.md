@@ -1,5 +1,5 @@
 
-**Unmaintained notice**: As of December 22nd 2017 this project will no longer be maintained.  It's been a fantastic five years, a project that has hopefully had a positive influence on the shape and extent of Web UI testing. Read more on [why its time to move on](https://github.com/Huddle/PhantomCSS#why-is-this-project-no-longer-maintained).
+**Unmaintained notice1**: As of December 22nd 2017 this project will no longer be maintained.  It's been a fantastic five years, a project that has hopefully had a positive influence on the shape and extent of Web UI testing. Read more on [why its time to move on](https://github.com/Huddle/PhantomCSS#why-is-this-project-no-longer-maintained).
 
 
 ---
